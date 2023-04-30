@@ -1,16 +1,16 @@
-### Hi there 👋
+![MasterHead](https://smmpackage.in/wp-content/uploads/2021/07/content-writing-1.gif)
+<h1 align="center">Hi!👋 I'm Arlene Becerra</h1>
+<h3 align="center">A passionate technical writer and lifelong learner</h3>
+<img align="right" alt="Coding" width="400" src="https://www.lios.ca/wp-content/uploads/2017/07/lios-article-juillet-2017-redacteur_rev1_final.png">
 
-<!--
-**arleneGit11/arleneGit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✍🏽 I’m an experienced technical writer enthusiastic about creating exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I currently work closely with subject matter experts to build training and development material relating to AWS, Azure, Google Cloud Platform, Linux, Terraform, DevOps, Kubernetes, Docker, and GitHub.
+
+- 📝 I can communicate highly technical concepts clearly and precisely and provide documentation with special consideration given to users with English as a second language.
+
+- 🌱 I’m a seeker of knowledge with the ability to quickly iterate and improve.
+
+<p align="left">
+</p>
