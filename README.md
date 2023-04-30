@@ -1,4 +1,4 @@
-![MasterHead](https://smmpackage.in/wp-content/uploads/2021/07/content-writing-1.gif)
+
 <h1 align="center">Hi!👋 I'm Arlene Becerra</h1>
 <img align="right" alt="Coding" width="400" src="https://www.lios.ca/wp-content/uploads/2017/07/lios-article-juillet-2017-redacteur_rev1_final.png">
 
